@@ -5,13 +5,9 @@
 
 [`GitHub public-apis`](https://github.com/public-apis/public-apis/?target=_blank)
 
-<a href="https://github.com/public-apis/public-apis/" target="_blank " rel="noopener">`GitHub public-apis`</a>
-
 And specifically using **Dog API** The internet's biggest collection of open source dog pictures.
 
 [`Dog API`](https://dog.ceo/dog-api/?target=_blank)
-
-<a href="https://dog.ceo/dog-api/" target="\_blank" rel="noopener">`Dog API`</a>
 
 <p align="right">
 <img src="./res/dogapi.png" width="100" height="100"/>
