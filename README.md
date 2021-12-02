@@ -1,13 +1,13 @@
 # Dog's Breeds Photos
 
 > JavaScript and API webpage to show dog breeds using Fetch, Promises and Async Await.
-> using the github `public-apis`.
+> using the github **public-apis** .
 
-[GitHub `public-apis`](https://github.com/public-apis/public-apis/?target=_blank)
+[`GitHub public-apis`](https://github.com/public-apis/public-apis/?target=_blank)
 
-And specifically using `Dog API` The internet's biggest collection of open source dog pictures.
+And specifically using **Dog API** The internet's biggest collection of open source dog pictures.
 
-<a href="https://dog.ceo/dog-api/" target="_blank">Dog API</a>
+[`Dog API`](https://dog.ceo/dog-api/?target=_blank)
 
 <p align="right">
 <img src="./res/dogapi.png" width="100" height="100"/>
