@@ -9,8 +9,8 @@ And specifically using **Dog API** The internet's biggest collection of open sou
 
 [`Dog API`](https://dog.ceo/dog-api/?target=_blank)
 
-<p align="right">
-<img src="./res/dogapi.png" width="100"/>
+<p align="left">
+<img src="./res/dog-ceo.png" width="400"/>
 </p>
 
 <!-- # Please visit the website and try! -->
