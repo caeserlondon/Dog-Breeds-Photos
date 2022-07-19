@@ -17,6 +17,8 @@ And specifically using **Dog API** The internet's biggest collection of open sou
 
 ## Please visit the website and try
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/885ba353-d05f-4c2c-9177-65dbbaa9ab38/deploy-status)](https://app.netlify.com/sites/dog-breeds-caeserlondon/deploys)
+
 <a href="https://dog-breeds-caeserlondon.netlify.app" target="_blank">`Dog Breeds Photos`</a>
 
 <p align="left">
