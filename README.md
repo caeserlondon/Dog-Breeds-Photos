@@ -1,17 +1,6 @@
 # Dog's Breeds Photos
 
 > JavaScript and API webpage to show dog breeds using Fetch, Promises and Async Await.
-> using the github **public-apis** .
-
-[`GitHub public-apis`](https://github.com/public-apis/public-apis/?target=_blank)
-
-And specifically using **Dog API** The internet's biggest collection of open source dog pictures.
-
-[`Dog API`](https://dog.ceo/dog-api/?target=_blank)
-
-<p align="left">
-<img src="./res/dog-ceo.png" width="400"/>
-</p>
 
 ---
 
@@ -25,4 +14,18 @@ And specifically using **Dog API** The internet's biggest collection of open sou
 <img src="./res/Screenshot.png" width="400"/>
 </p>
 
-`https://dog-breeds-caeserlondon.netlify.app`
+https://dog-breeds-caeserlondon.netlify.app
+
+---
+
+> using the github **public-apis** .
+
+[`GitHub public-apis`](https://github.com/public-apis/public-apis/?target=_blank)
+
+And specifically using **Dog API** The internet's biggest collection of open source dog pictures.
+
+[`Dog API`](https://dog.ceo/dog-api/?target=_blank)
+
+<p align="left">
+<img src="./res/dog-ceo.png" width="400"/>
+</p>
